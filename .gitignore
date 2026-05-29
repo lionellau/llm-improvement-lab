@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+build/
+
+# Local environment files
+.env
+.env.local
+.env.*.local
+*.local
+
+# Editor / OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Tooling caches
+.cache/
+.parcel-cache/
+.eslintcache
+*.tsbuildinfo
+
+# Agent / scaffolding state
+.gstack/
+.claude/
+
+# Lockfiles other than npm
+bun.lockb
+yarn.lock
+pnpm-lock.yaml
+
+# Test artifacts
+coverage/
+*.lcov
