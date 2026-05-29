@@ -6,7 +6,7 @@
 
 **No math. No code. No prior background.** Thirteen short, animation-first chapters that walk a non-technical learner from *"why does this thing keep making things up?"* all the way to *"here is how we would ship it next quarter"* — using one running story and a handful of simple analogies.
 
-**▶ [Try it live](https://lionellau.github.io/LLM-Improvement-Lab/)**
+**▶ [Try it live](https://lionellau.github.io/llm-improvement-lab/)**
 
 </div>
 
